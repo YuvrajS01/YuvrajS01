@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YuvrajS01
 - 👀 I’m interested in Everything Computers
-- 🌱 I’m currently learning WebDev & Python
+- 🌱 I’m currently learning C, WebDev & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
